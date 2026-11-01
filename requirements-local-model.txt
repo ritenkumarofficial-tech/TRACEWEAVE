@@ -1,0 +1,4 @@
+# Optional free local AI-image detector. Installs PyTorch + Transformers; first model run downloads weights.
+# On Apple Silicon, use a supported Python version (recommend Python 3.11 or 3.12).
+torch>=2.2
+transformers>=4.45,<5
